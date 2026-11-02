@@ -45,3 +45,7 @@ Please note that packages.firegento.com is not always up-to-date - in this case 
 **via file transfer (zip download)**  
     please see the releases tab for https://github.com/fooman/googleanalyticsplus/releases
     
+
+## Contributors
+
+Everyone credited so far: [CONTRIBUTORS.md](CONTRIBUTORS.md).
